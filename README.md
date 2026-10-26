@@ -3,7 +3,8 @@
 
 > **The all-in-one digital operating system, supply-chain aggregator, and global investment platform for youth entrepreneurs and township small businesses across South Africa.**
 
-![TradeSync Banner](public/assets/branding/image_8491ff9d.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a558f9ba-ba75-406c-bde1-78c2e4ae66be" />
+
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
