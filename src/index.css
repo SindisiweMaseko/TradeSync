@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --bg-main: #f8fafc;
+    --text-navy: #0b192c;
+    --electric-blue: #2563eb;
+  }
+
+  .dark {
+    --bg-main: #090d16;
+    --text-navy: #f8fafc;
+    --electric-blue: #3b82f6;
+  }
+}

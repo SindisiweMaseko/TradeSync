@@ -1,0 +1,8 @@
+{
+  "name": "TradeSync - KasiBiz OS & Growth Platform",
+  "description": "All-in-one digital operating system, supply-chain aggregator, and global investment platform for youth entrepreneurs and township small businesses in South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
