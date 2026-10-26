@@ -1,4 +1,5 @@
-# TradeSync - KasiBiz OS & Growth Platform 🇿🇦
+# TradeSync 
+
 
 > **The all-in-one digital operating system, supply-chain aggregator, and global investment platform for youth entrepreneurs and township small businesses across South Africa.**
 
